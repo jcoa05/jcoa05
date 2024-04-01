@@ -2,21 +2,32 @@
 Welcome to my data portfolio! Here I will document my projects in health data analysis.
 
 ## :briefcase: Contents
-- [Data Engineering](#data-engineering)
-- [SQL](#sql)
-- [Python](#python)
-- [Tableau](#tableau)
 - [Current projects](#currrent-projects)
+- [Past projects](#past-projects)
+- [Contact](#contact)
+- [Fun fact](#fun-fact)
+
+# :man_technologist: Current projects
 
 
 
-# 🔭 Current projects
+# 🔭 Past projects
+
+| Project | Description | Tools | Link |
+|---|---|---|---|
+| User dashboard | I built a multi-source dashboard for internal use at AIESEC Mexico, a global NGO. Source links were severed to respect the organisation's confidentiality. | Looker Studio (former Google Data Studio) | [Looker Studio dashboard](https://lookerstudio.google.com/s/lv4_NVGgpaE)|
 
 
-# 📫 Contact me
+# 📫 Contact
+
+| Professional email | juan-carlos.ocampo(at)pasteur.fr | 
+|---|---|
+| Personal email | jocampo1997(at)hotmail.com |
+
 
 # ⚡ Fun fact
-When I worked as a cook, I made dinner for one of 
+When I worked as a cook, I made dinner for José Mujica, former president of Uruguay. He ordered rice, beans, and a piece of chicken.
+
 
 
 <!--

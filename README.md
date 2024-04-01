@@ -18,7 +18,7 @@ Welcome to my data portfolio! Here I will document my projects in health data an
 | User dashboard | I built a multi-source dashboard for internal use at AIESEC Mexico, a global NGO. Source links were severed to respect the organisation's confidentiality. | Looker Studio (former Google Data Studio) | [Looker Studio dashboard](https://lookerstudio.google.com/s/lv4_NVGgpaE)|
 
 
-# 📫 Contact
+# Contact 📫
 
 | Professional email | juan-carlos.ocampo(at)pasteur.fr | 
 |---|---|

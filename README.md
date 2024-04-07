@@ -17,7 +17,6 @@ Welcome to my data portfolio! Here I will document my projects in health data an
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
-
 | User dashboard | Multi-source interactive dashboard to inform Operations departments in 27 states at AIESEC Mexico —a global NGO. Source links are severed due to confidentiality. | Looker Studio (former Google Data Studio) | [Looker Studio dashboard](https://lookerstudio.google.com/s/lv4_NVGgpaE)|
 | Maternal Food Consumption - Pélagie Cohort | I explored the Pélagie cohort, looking at pregnant women and their food consumption via PCA, HRPC, logistic regression analysis, and spatial analysis. | R, RStudio | [Pélagie R script](https://drive.google.com/file/d/1n-QfzRHYzvz6knLk0YQ3oKBdQTKulL8g/view?usp=drive_link)|
 | Columbus OH Spatial analysis | I explored the ColumbusOH dataset using spatial analysis techniques. | R, RStudio | [Columbus R script](https://drive.google.com/file/d/1yOd8b_SwdeCeB8sNT8uxPFQ67ySE4Uwx/view?usp=drive_link)|
@@ -33,8 +32,6 @@ I am preparing full repositories.
 
 # ⚡ Fun fact
 When I worked as a cook, I made dinner for José Mujica, former president of Uruguay. He ordered rice, beans, and a piece of chicken —a cheap but tasty Ecuadorean meal.
-
-
 
 <!--
 **jcoa05/jcoa05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

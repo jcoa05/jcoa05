@@ -1,5 +1,5 @@
 # :computer: PORTFOLIO
-Welcome to my data portfolio! Here I will document my projects in health data analysis.
+Welcome to my portfolio! Here I will document my data analysis projects in R.
 
 ## :briefcase: Contents
 - [Current projects](#currrent-projects)

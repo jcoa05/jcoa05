@@ -11,7 +11,7 @@ Welcome to my portfolio! Here I will document my data analysis projects in R.
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
-| Quantifying mosquito-bone disease prevention in France | My team and I conducted the first nationwide survey on mosquito-borne disease preventive behaviour in metropolitan France. We're using cummulative link and zero-inflated negative binomial mixed-effect models. | R, RStudio | [ELIM-IP R Markdown](https://drive.google.com/file/d/1jLJKWd6LvzgPBUYMFRyhX8wNjfarqM5n/view?usp=drive_link) |
+| Quantifying mosquito-bone disease prevention in France | My team and I conducted the first nationwide survey on mosquito-borne disease preventive behaviour in metropolitan France. We're using cummulative link and zero-inflated negative binomial mixed-effect models. | R, RStudio | [ELIM-IP R Markdown](https://github.com/jcoa05/elimip/blob/main/elimip2025.md) |
 
 # 🔭 Past projects
 

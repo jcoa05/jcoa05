@@ -11,7 +11,9 @@ Welcome to my portfolio! Here I will document my data analysis projects in R.
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
-| Quantifying mosquito-bone disease prevention in France | My team and I conducted the first nationwide survey on mosquito-borne disease preventive behaviour in metropolitan France. We're using cummulative link and zero-inflated negative binomial mixed-effect models. | R, RStudio | [ELIM-IP R Markdown](https://github.com/jcoa05/elimip/blob/main/elimip2025.md) |
+| Quantifying mosquito-bone disease prevention in France | My team and I conducted the first nationwide survey on mosquito-borne disease preventive behaviour in metropolitan France. We're using cummulative link and zero-inflated negative binomial mixed-effect models. | R, RStudio | [ELIM-IP](https://github.com/jcoa05/elimip/blob/main/elimip2025.md) |
+| Mapping the global distribution of BSL3-4 labs projected climate-related risk | I mapped all BSL3 and BSL4 laboratories worldwide to explore which could be affected by increasing climate-related threats, such as flooding, cyclones, windstorms, etc., as projected by the IPCC | R, RStudio | [BSL map](https://github.com/jcoa05/elimip/blob/main/elimip2025.md) |
+
 
 # 🔭 Past projects
 

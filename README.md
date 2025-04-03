@@ -36,7 +36,7 @@ I am preparing full repositories.
 # ⚡ Fun fact
 When I worked as a cook, I made dinner for José Mujica, former president of Uruguay. He ordered rice, beans, and a piece of chicken —a cheap but tasty Ecuadorean meal.
 
-Last updated September 2024
+Last updated April 2025
 <!--
 
 # Ask me about 💬 

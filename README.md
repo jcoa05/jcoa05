@@ -11,7 +11,7 @@ Welcome to my Data Analysis & Visualization portfolio. Here I document my projec
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
-| Quantifying mosquito-bone disease prevention in France | My team and I conducted the first nationwide survey on mosquito-borne disease preventive behaviour in metropolitan France. We're using cummulative link and zero-inflated negative binomial mixed-effect models. | R, RStudio | [ELIM-IP](https://github.com/jcoa05/elimip) |
+| Quantifying mosquito-bone disease prevention in France | My team and I conducted the first nationwide survey on mosquito-borne disease preventive behaviour in metropolitan France. We're using cummulative link and zero-inflated negative binomial mixed-effect models. | R, RStudio | [ELIM-IP](https://github.com/jcoa05/elimip/blob/main/elimip2025.md) |
 | Mapping worldwide BSL3-4 labs vulnerable to climate-related risk | I mapped all BSL3 and BSL4 laboratories worldwide to explore which could be affected by increasing climate-related threats, such as flooding, cyclones, windstorms, etc., as projected by the IPCC | R, RStudio, Shiny | [BSL map](https://github.com/jcoa05/bsl-climate-risk) |
 | Simulating epidemic dynamics using an interactive SE2IR modelling tool | I developed an interactive SE2IR (Susceptible-Exposed-Infected-Recovered) modeling tool to simulate epidemic dynamics under varying transmission scenarios. The tool allows users to adjust key parameters (e.g., incubation period, contact rates) and visualize real-time outcomes, aiding in outbreak preparedness and public health decision-making. | R, RStudio, Shiny | [SE2IR tool](https://github.com/jcoa05/seir-shiny) |
 

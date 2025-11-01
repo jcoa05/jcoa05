@@ -1,5 +1,5 @@
 # PORTFOLIO
-Welcome to my Data Analysis & Visualization portfolio. Here I document my projects in R.
+Welcome to my data analysis and visualization portfolio. Here I document my projects in R.
 
 ## Contents
 - [Current projects](#currrent-projects)
@@ -11,32 +11,30 @@ Welcome to my Data Analysis & Visualization portfolio. Here I document my projec
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
-| Quantifying mosquito-bone disease prevention in France | My team and I conducted the first nationwide survey on mosquito-borne disease preventive behaviour in metropolitan France. We're using cummulative link and zero-inflated negative binomial mixed-effect models. | R, RStudio | [ELIM-IP](https://github.com/jcoa05/elimip/blob/main/elimip2025.md) |
-| Mapping worldwide BSL3-4 labs vulnerable to climate-related risk | I mapped all BSL3 and BSL4 laboratories worldwide to explore which could be affected by increasing climate-related threats, such as flooding, cyclones, windstorms, etc., as projected by the IPCC | R, RStudio, Shiny | [BSL map](https://github.com/jcoa05/bsl-climate-risk) |
-| Simulating epidemic dynamics using an interactive SE2IR modelling tool | I developed an interactive SE2IR (Susceptible-Exposed-Infected-Recovered) modeling tool to simulate epidemic dynamics under varying transmission scenarios. The tool allows users to adjust key parameters (e.g., incubation period, contact rates) and visualize real-time outcomes, aiding in outbreak preparedness and public health decision-making. | R, RStudio, Shiny | [SE2IR tool](https://github.com/jcoa05/seir-shiny) |
+| Modelling mosquito-bone disease prevention in France | My team and I conducted the first nationwide survey on mosquito-borne disease preventive behaviour in metropolitan France. We analyzed the data using cummulative link and zero-inflated negative binomial mixed-effect models. | R, RStudio | [ELIM-IP](https://github.com/jcoa05/elimip/blob/main/elimip2025.md) |
+| Mapping worldwide BSL3-4 labs vulnerable to future climate-related risk | I mapped all BSL3 and BSL4 laboratories worldwide to explore which could be affected by increasing climate-related threats, such as flooding and cyclones, as projected by the IPCC | R, RStudio, Shiny | [BSL map](https://github.com/jcoa05/bsl-climate-risk) |
+
 
 # Past projects
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
-| AIESEC user dashboard | Multi-source interactive dashboard to inform Operations departments in 27 states at AIESEC Mexico —a global NGO. Source links are severed due to confidentiality. | Looker Studio (former Google Data Studio) | [Looker Studio dashboard](https://lookerstudio.google.com/s/lv4_NVGgpaE)|
+| Simulating epidemic dynamics using an interactive SE2IR modelling tool | I developed an interactive SE2IR (Susceptible-Exposed-Infected-Recovered) modeling tool to simulate epidemic dynamics under varying transmission scenarios. The tool allows users to adjust key parameters (e.g., incubation period, contact rates) and visualize real-time outcomes, aiding in outbreak preparedness and public health decision-making. | R, RStudio, Shiny | [SE2IR tool](https://github.com/jcoa05/seir-shiny) |
 | Maternal Food Consumption - Pélagie Cohort | I explored the Pélagie cohort, looking at pregnant women and their food consumption via PCA, HRPC, logistic regression analysis, and spatial analysis. | R, RStudio | [Pélagie R script](https://drive.google.com/file/d/1n-QfzRHYzvz6knLk0YQ3oKBdQTKulL8g/view?usp=drive_link)|
 | Columbus OH Spatial analysis | I explored the ColumbusOH dataset using spatial analysis techniques. | R, RStudio | [Columbus R script](https://drive.google.com/file/d/1yOd8b_SwdeCeB8sNT8uxPFQ67ySE4Uwx/view?usp=drive_link)|
-
-I am preparing full repositories.
+| AIESEC user dashboard | Multi-source interactive dashboard to inform Operations departments in 27 states at AIESEC Mexico —a global NGO. Source links are severed due to confidentiality. | Looker Studio (former Google Data Studio) | [Looker Studio dashboard](https://lookerstudio.google.com/s/lv4_NVGgpaE)|
 
 # Contact 📫
 
 | Professional email | juan-carlos.ocampo(at)pasteur.fr | 
 |---|---|
-| Academic email | jmocampoalvarado1(at)sheffield.ac.uk |
 | Personal email | jocampo1997(at)hotmail.com |
 
 
 # Fun fact
 When I worked as a cook, I made dinner for José Mujica, former president of Uruguay. He ordered rice, beans, and a piece of chicken —a cheap but tasty Ecuadorean meal.
 
-Last updated April 2025
+Last updated November 2025
 
 <!--
 

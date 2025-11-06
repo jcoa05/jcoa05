@@ -11,7 +11,7 @@ Welcome to my data analysis and visualization portfolio. Here I document my proj
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
-| Predicting motor recovery after spinal cord injury using ML | This project develops a supervised learning model to predict ISNCSCI motor score at 12 months post-injury using data from the first 30 days post-injury on an EMSCI-like simulated dataset. | R, RStudio | [EMSCI-ML](https://jcoa05.github.io/emsci-ml/) |
+| Predicting motor recovery after spinal cord injury using a stacked ensemble | I developed a supervised learning model to predict motor score at 12 months post-injury using data from the first 30 days post-injury on an EMSCI-like simulated dataset. | R, RStudio | [EMSCI-ML](https://jcoa05.github.io/emsci-ml/) |
 | Modelling mosquito-bone disease prevention in France | I analyzed complex survey data on mosquito-borne disease preventive behaviour in France using cummulative link and zero-inflated negative binomial mixed-effect models | R, RStudio | [ELIM-IP](https://github.com/jcoa05/elimip/blob/main/elimip2025.md) |
 | Mapping worldwide BSL3-4 labs vulnerable to future climate-related risk | I mapped all BSL3 and BSL4 laboratories worldwide to explore which could be affected by increasing climate-related threats, such as flooding and cyclones, as projected by the IPCC | R, RStudio, Shiny | [BSL map](https://github.com/jcoa05/bsl-climate-risk) |
 

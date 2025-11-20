@@ -5,7 +5,6 @@ Welcome to my data analysis and visualization portfolio. Here I document my proj
 - [Current projects](#currrent-projects)
 - [Past projects](#past-projects)
 - [Contact](#contact)
-- [Fun fact](#fun-fact)
 
 # Current projects
 

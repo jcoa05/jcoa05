@@ -16,7 +16,7 @@ Data analysis and visualization projects in epidemiology, machine learning, and 
 
 | Project | Description | Tools | Link |
 |:--------|:------------|:------|:-----|
-| **Stacked ensemble ML for resource-constrained settings** | Methodological demonstration of stacked ensemble learning executable on consumer hardware (8 GB RAM, no GPU), targeting resource-constrained research settings. | tidymodels, stacks, DALEX, fastshap | [MLH-SCI](https://github.com/jcoa05/MLH-SCI) |
+| **Stacked ensemble ML for resource-constrained settings** | Methodological demonstration of stacked ensemble learning executable on consumer hardware (4 GB RAM, < 4 cores, no GPU), targeting resource-constrained research settings. | tidymodels, stacks, DALEX, fastshap | [MLH-SCI](https://github.com/jcoa05/MLH-SCI) |
 | **Predicting motor recovery after spinal cord injury** | Supervised learning model predicting 12-month motor score from acute-phase data (days 1-30) using an EMSCI-like simulated cohort. | tidymodels, tune, fastshap | [EMSCI-ML](https://jcoa05.github.io/emsci-ml/) |
 | **Climate risk mapping of BSL3-4 laboratories** | Global mapping of high-containment laboratories to assess vulnerability to projected climate-related hazards (flooding, cyclones) based on IPCC scenarios. | sf, leaflet | [BSL map](https://github.com/jcoa05/bsl-climate-risk) |
 
@@ -45,7 +45,7 @@ Data analysis and visualization projects in epidemiology, machine learning, and 
 
 #### Fun fact
 
-When I worked as a cook, I made dinner for José Mujica, former president of Uruguay. He ordered rice, beans, and a piece of chicken - a cheap but tasty Ecuadorean meal.
+When I worked as a cook, I made dinner for José Mujica, former president of Uruguay. He ordered rice, beans, and a piece of chicken (a cheap but tasty Ecuadorean meal).
 
 ---
 

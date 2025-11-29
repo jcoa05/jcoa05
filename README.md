@@ -12,7 +12,7 @@ Data analysis and visualization projects in epidemiology, machine learning, and 
 
 ---
 
-## Current Projects
+## Current projects
 
 | Project | Description | Tools | Link |
 |:--------|:------------|:------|:-----|
@@ -22,7 +22,7 @@ Data analysis and visualization projects in epidemiology, machine learning, and 
 
 ---
 
-## Past Projects
+## Past projects
 
 | Project | Description | Tools | Link |
 |:--------|:------------|:------|:-----|

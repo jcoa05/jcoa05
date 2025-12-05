@@ -49,7 +49,7 @@ When I worked as a cook, I made dinner for José Mujica, former president of Uru
 
 ---
 
-<sub>Last updated November 2025</sub>
+<sub>Last updated December 2025</sub>
 
 
 

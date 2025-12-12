@@ -2,12 +2,9 @@
 
 Data analysis and visualization projects in epidemiology, machine learning, and global health.
 
----
-
 ## Contents
-
-- [Current Projects](#current-projects)
-- [Past Projects](#past-projects)
+- [Current projects](#current-projects)
+- [Past projects](#past-projects)
 - [Contact](#contact)
 
 ---
@@ -35,7 +32,6 @@ Data analysis and visualization projects in epidemiology, machine learning, and 
 ---
 
 ## Contact
-
 | | |
 |:--|:--|
 | **Professional** | juan-carlos.ocampo(at)pasteur.fr |
